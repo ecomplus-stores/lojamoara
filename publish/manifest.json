@@ -1,0 +1,37 @@
+{
+  "icons": [
+    {
+      "src": "/icon_512x512.eba1559073d719f2817a969c7738b70b.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_384x384.8897025dee4882523104be798fc86f24.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_192x192.67e23e6f5767ad7870aa9093ab3f0565.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_128x128.ac0c8759fe1074c2d8213c3e4d190775.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "/icon_96x96.3043f58acc5d7664e631f6116b7dcaf1.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    }
+  ],
+  "name": "Moara",
+  "short_name": "Moara",
+  "orientation": "portrait",
+  "display": "standalone",
+  "start_url": ".",
+  "description": "Somos uma loja física e virtual, que através de produtos de qualidade e com preços acessíveis tem como objetivo elevar a auto estima, estimular o auto cuidado e o amor próprio.",
+  "background_color": "#ffffff",
+  "theme_color": "#c2708e"
+}
