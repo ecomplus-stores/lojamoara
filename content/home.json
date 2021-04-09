@@ -69,14 +69,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": [
-        {
-          "img": "/img/uploads/copia-de-sem-nome-4-.png",
-          "mobile_img": "/img/uploads/copia-de-sem-nome-4-.png",
-          "start": "",
-          "end": ""
-        }
-      ]
+      "slides": []
     },
     {
       "type": "custom-html",
