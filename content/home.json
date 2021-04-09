@@ -9,18 +9,6 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-moara-desk-2.png",
-          "mobile_img": "/img/uploads/banner-moara-2.png"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/banner-moara-beauty-desk.png",
-          "mobile_img": "/img/uploads/banner-moara-beauty-mobile.png"
-        },
-        {
-          "start": "",
-          "end": "",
           "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner.png"
         }
       ]
@@ -32,27 +20,31 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/__2.png"
+          "img": "/img/uploads/_img_9261.jpg",
+          "link": "https://lojamoara.com.br/brincos"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/__3.png"
+          "img": "/img/uploads/0c29a70c-bb3b-41ac-a2fe-25f04bf5e455.jpeg",
+          "link": "https://lojamoara.com.br/pulseiras"
         },
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/banner-moara-make.png"
+          "img": "/img/uploads/img_7921_facetune_28-03-2021-21-11-38-1-.jpg",
+          "link": "https://lojamoara.com.br/aneis"
         }
       ]
     },
     {
       "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "news",
+      "shuffle": false,
+      "sort": "slug",
       "title": "Queridinhos",
       "headless": false,
-      "limit": 6
+      "limit": 10,
+      "collection_id": null
     },
     {
       "type": "collection-shelf",
