@@ -9,7 +9,14 @@
         {
           "start": "",
           "end": "",
-          "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner.png"
+          "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner.png",
+          "mobile_img": ""
+        },
+        {
+          "start": "2021-04-09T23:29:45.862Z",
+          "end": "2021-04-09T23:29:45.892Z",
+          "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner-1-.png",
+          "link": "https://lojamoara.com.br/linha-maia-semijoias"
         }
       ]
     },
@@ -40,11 +47,12 @@
     {
       "type": "collection-shelf",
       "shuffle": false,
-      "sort": "slug",
+      "sort": "views",
       "title": "Queridinhos",
       "headless": false,
-      "limit": 10,
-      "collection_id": null
+      "limit": 20,
+      "collection_id": null,
+      "page": 1
     },
     {
       "type": "collection-shelf",
@@ -73,23 +81,15 @@
       "slides": [
         {
           "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner.png",
-          "mobile_img": "/img/uploads/BN_10022021_(13).png",
-          "start": "",
-          "end": ""
-        },
-        {
-          "img": "/img/uploads/BN_10022021_(20).png",
-          "mobile_img": "/img/uploads/BN_10022021_(14).png",
-          "start": "",
-          "end": ""
-        },
-        {
-          "img": "/img/uploads/BN_10022021_(19).png",
-          "mobile_img": "/img/uploads/BN_10022021_(15).png",
+          "mobile_img": "",
           "start": "",
           "end": ""
         }
       ]
+    },
+    {
+      "type": "responsive-banner",
+      "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner-1-.png"
     }
   ]
 }
