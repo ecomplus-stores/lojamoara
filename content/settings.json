@@ -1,7 +1,7 @@
 {
   "domain": "lojamoara.com.br",
   "currency_symbol": "R$",
-  "primary_color": "#ff9e98",
+  "primary_color": "#f5f4f4",
   "theme": {
     "bootswatch": "_",
     "custom": "_"
