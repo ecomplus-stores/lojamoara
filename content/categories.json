@@ -6,11 +6,6 @@
       "sort": "sales"
     },
     {
-      "type": "category-retail",
-      "enabled": true,
-      "sort": "sales"
-    },
-    {
       "type": "document-banner",
       "enabled": true
     }
