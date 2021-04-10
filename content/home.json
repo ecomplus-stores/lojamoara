@@ -4,7 +4,7 @@
   "sections": [
     {
       "type": "banner-slider",
-      "autoplay": 9000,
+      "autoplay": 6000,
       "slides": [
         {
           "start": "",
@@ -78,18 +78,7 @@
     {
       "type": "banner-slider",
       "autoplay": 9000,
-      "slides": [
-        {
-          "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner.png",
-          "mobile_img": "",
-          "start": "",
-          "end": ""
-        }
-      ]
-    },
-    {
-      "type": "responsive-banner",
-      "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner-1-.png"
+      "slides": []
     }
   ]
 }
