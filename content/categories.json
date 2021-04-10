@@ -2,7 +2,13 @@
   "sections": [
     {
       "type": "category-retail",
-      "enabled": true
+      "enabled": true,
+      "sort": "sales"
+    },
+    {
+      "type": "category-retail",
+      "enabled": true,
+      "sort": "sales"
     }
   ]
 }
