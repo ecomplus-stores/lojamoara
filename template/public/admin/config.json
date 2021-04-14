@@ -68,6 +68,37 @@
           ]
         }
       ]
+    },
+    {
+      "label": "Layout",
+      "name": "layout",
+      "delete": false,
+      "description": "Layout base todas as páginas",
+      "files": [
+        {},
+        {},
+        {
+          "file": "content/footer.json",
+          "label": "Rodapé",
+          "name": "footer",
+          "fields": [
+            {
+                    "label": "Lojas",
+                    "name": "stores",
+                    "widget": "list",
+                    "fields": [
+                        {
+                            "title": "text",
+                            "text": "text",
+                            "name": "Nome da loja"
+                        }
+                    ]
+
+            }
+          ]
+        }
+      ]
     }
+
   ]
 }
