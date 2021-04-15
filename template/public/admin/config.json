@@ -85,8 +85,13 @@
             {
                     "label": "Lojas",
                     "name": "stores",
-                    "widget": "list",
+                    "widget": "object",
                     "fields": [
+                      {
+                      "label": "Listas de lojas",
+                      "name": "list",
+                      "widget": "list",
+                      "fields": [
                         {
                             "label": "Nome da loja",
                             "name": "title",
@@ -97,7 +102,9 @@
                             "name": "text",
                             "widget": "string"
                         }
-                    ]
+                      ]
+                    }
+                ]
 
             }
           ]
