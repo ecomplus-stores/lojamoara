@@ -88,14 +88,12 @@
                     "widget": "list",
                     "fields": [
                         {
-                            "title": "text",
                             "label": "Nome da loja",
-                            "name": "text",
+                            "name": "title",
                             "widget": "string"
                         },
                         {
-                            "text": "text",
-                            "label": "Nome da loja",
+                            "label": "Texto da loja",
                             "name": "text",
                             "widget": "string"
                         }
