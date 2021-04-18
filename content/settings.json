@@ -4,7 +4,7 @@
   "primary_color": "#f5f4f4",
   "theme": {
     "bootswatch": "_",
-    "custom": "clean-white"
+    "custom": "_"
   },
   "bg_color": "#ffffff",
   "logo": "/img/uploads/logonovo.png",
