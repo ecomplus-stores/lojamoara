@@ -1,7 +1,8 @@
 {
   "marketing_stripe": {
     "text": " Ganhe 10% de desconto com o cupom MOARA10",
-    "link": "/promotion"
+    "link": "/promotion",
+    "background": "#e8a1af"
   },
   "contacts_stripe": {
     "pages": [],
