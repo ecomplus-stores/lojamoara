@@ -37,7 +37,7 @@
         }
       ]
     },
-        {
+    {
       "type": "banners-grid",
       "banners": [
         {
@@ -73,24 +73,6 @@
           "link": "https://lojamoara.com.br/aneis"
         }
       ]
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": false,
-      "sort": "views",
-      "title": "Queridinhos",
-      "headless": false,
-      "limit": 20,
-      "collection_id": null,
-      "page": 1
-    },
-    {
-      "type": "collection-shelf",
-      "shuffle": true,
-      "sort": "news",
-      "title": "Acabaram de chegar",
-      "headless": false,
-      "limit": 5
     },
     {
       "type": "custom-html",
