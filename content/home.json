@@ -24,6 +24,19 @@
       "type": "banners-grid",
       "banners": [
         {
+          "img": "/img/uploads/whatsapp-image-2021-05-24-at-13.23.42-1-.jpeg",
+          "link": "https://lojamoara.com.br/aneis"
+        },
+        {
+          "img": "/img/uploads/whatsapp-image-2021-05-24-at-13.23.42-7-.jpeg",
+          "link": "https://lojamoara.com.br/inverno-2021"
+        }
+      ]
+    },
+    {
+      "type": "banners-grid",
+      "banners": [
+        {
           "img": "/img/uploads/whatsapp-image-2021-05-24-at-13.23.42-5-.jpeg",
           "link": "https://lojamoara.com.br/colares"
         },
@@ -34,19 +47,6 @@
         {
           "img": "/img/uploads/whatsapp-image-2021-05-24-at-13.23.42-2-.jpeg",
           "link": "https://lojamoara.com.br/brincos"
-        }
-      ]
-    },
-    {
-      "type": "banners-grid",
-      "banners": [
-        {
-          "img": "/img/uploads/whatsapp-image-2021-05-24-at-13.23.42-1-.jpeg",
-          "link": "https://lojamoara.com.br/aneis"
-        },
-        {
-          "img": "/img/uploads/whatsapp-image-2021-05-24-at-13.23.42-7-.jpeg",
-          "link": "https://lojamoara.com.br/inverno-2021"
         }
       ]
     },
