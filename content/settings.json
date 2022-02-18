@@ -11,6 +11,7 @@
   "name": "Moara",
   "short_name": "Moara",
   "lang": "pt_br",
+  "repository": "ecomplus-stores/lojamoara",
   "currency": "BRL",
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
