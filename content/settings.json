@@ -1,5 +1,5 @@
 {
-  "domain": "lojamoara.com.br",
+  "domain": "brunnaoliveira.com",
   "currency_symbol": "R$",
   "primary_color": "#f5f4f4",
   "theme": {
@@ -7,11 +7,11 @@
     "custom": "_"
   },
   "bg_color": "#ffffff",
+  "repository": "ecomplus-stores/lojamoara",
   "logo": "/img/uploads/logonovo.png",
   "name": "Moara",
   "short_name": "Moara",
   "lang": "pt_br",
-  "repository": "ecomplus-stores/lojamoara",
   "currency": "BRL",
   "mini_logo": "",
   "favicon": "/img/uploads/favicon.png",
