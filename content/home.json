@@ -18,7 +18,8 @@
           "img": "/img/uploads/copia-de-copia-de-copia-de-copia-de-banner-1-.png",
           "link": "https://lojamoara.com.br/linha-maia-semijoias"
         }
-      ]
+      ],
+      "full_width": true
     },
     {
       "type": "banners-grid",
@@ -51,35 +52,21 @@
       ]
     },
     {
-      "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": [
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/_img_9261.jpg",
-          "link": "https://lojamoara.com.br/brincos"
-        },
-        {
-          "start": "",
-          "end": "",
-          "img": "/img/uploads/0c29a70c-bb3b-41ac-a2fe-25f04bf5e455.jpeg",
-          "link": "https://lojamoara.com.br/pulseiras"
-        }
-      ]
-    },
-    {
       "type": "custom-html",
       "html": "<div class='divider'><div class='container'><span>Moara é cuidado e amor próprio em cada detalhe</span></div></div>"
     },
     {
       "type": "banner-slider",
-      "autoplay": 9000,
-      "slides": []
+      "autoplay": 6000,
+      "slides": [],
+      "full_width": true
     },
     {
       "type": "custom-html",
       "html": "<div class='instagram-block'><h4 class='products-carousel__title'> <span>Acompanhe as novidades</span> </h4> <div id='instafeed'> </div></div><script src='/assets/instafeed.min.js'></script>"
+    },
+    {
+      "type": "banners-grid"
     }
   ]
 }
