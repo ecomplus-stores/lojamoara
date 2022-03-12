@@ -1,6 +1,6 @@
 {
   "marketing_stripe": {
-    "text": " Ganhe 10% de desconto com o cupom MOARA10",
+    "text": " Ganhe 10% de desconto com o cupom Brunna10",
     "link": "/promotion",
     "background": "#000000"
   },
@@ -10,7 +10,13 @@
     "socials": true
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/colares?Colares ",
+      "/brincos?Brincos",
+      "/pulseiras?Pulseiras ",
+      "/aneis?Anéis ",
+      "/novidades?Novidades"
+    ],
     "random": 0,
     "full_width": true
   },
