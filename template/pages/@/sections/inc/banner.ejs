@@ -49,7 +49,7 @@ if (opt.img) {
       >
         <% sources.forEach(({ src, media, type }) => { %>
           <source
-            srcset="<%= src %>"
+            srcset="<%= _.assetsPrefix || '' %><%= src %>"
             media="<%- media %>"
             <% if (type) { %>
               type="<%- type %>"
